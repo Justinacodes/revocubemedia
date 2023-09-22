@@ -1,0 +1,30 @@
+body{
+   font-family: 'Plus Jakarta Sans', sans-serif; 
+   margin: 100px;
+}
+.firstParagraph{
+    text-align: center;
+    
+}
+section.firstSection{
+    background-image: url(images/bgimg1.png);
+
+}
+h1.firstParagraphTitle{
+    font-size: 40px;
+    font-weight: 800;
+}
+.red-btn{
+    border-radius: 30px;
+    color: #fff;
+    background-color: #f02f30;
+    padding: 15px 40px 15px 40px;
+}
+p.featuresTitle{
+    color: #f02f30;
+    font-size: 12px;
+}
+p.featuresText{
+    font-size: 40px;
+    font-weight: 700;
+}
